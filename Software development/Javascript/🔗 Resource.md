@@ -1,0 +1,3 @@
+- [JSwiki](http://jswiki.org/): This wiki indexes libraries and resources available for JavaScript.
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- 
