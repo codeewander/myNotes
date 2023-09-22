@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "6e464d26c9bfd1ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "f37998890811947c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d6d63285ce2c2cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "83e5fe24cb8fe9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - 高效率工作者的36個生活訣竅/工作方法/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9407156f0bcce53a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc9480397eb2d07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa58c9f02e83b30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0496d3457e8bf5f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e0eb16accf9c61fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1bccbb9e10e33bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3659becbca097c71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81238e578cdeaccf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - 高效率工作者的36個生活訣竅/工作方法/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a05b3d80427b1ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - 高效率工作者的36個生活訣竅/工作方法/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb9b949bf5cff7d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d51b13682c23640",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - 高效率工作者的36個生活訣竅/工作方法/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "9aa58c9f02e83b30",
+  "lastOpenFiles": [
+    "1 - 高效率工作者的36個生活訣竅/工作方法/Untitled.md",
+    "1 - 高效率工作者的36個生活訣竅/心態",
+    "1 - 高效率工作者的36個生活訣竅/工作方法",
+    "1 - 高效率工作者的36個生活訣竅/核心思維",
+    "1 - 高效率工作者的36個生活訣竅/關係經營",
+    "1 - 高效率工作者的36個生活訣竅/自我管理",
+    "1 - 高效率工作者的36個生活訣竅"
+  ]
+}
