@@ -18,31 +18,32 @@ mindmap-plugin: basic
 - **Reliable uptime 可被及時訪問: users should always be able to visit the website through operational servers
 - **Scalable infrastructure可擴充架構**: easily grow or shrink without running into performance issues
 
-### 常見模式：
+### 常見模式
 - [SSG (Static Site Generation/ Static Rendering) 靜態渲染](#SSG)
 - SSR (Server-Side Rendering) 伺服器端渲染- rendering a client-side or universal app to HTML on the server.
 - CSR (Client-Side Rendering) 客戶端渲染 - rendering an app in a browser, generally using the DOM.
 
 
 #### SSG 
-👍
+##### 👍
 - HTML gets generated at build 
 - Easily cacheable by CDN or an edge network 
-👎
+##### 👎
 - dynamic content, customized data  
 
-1. Plain Static Rendering 
+##### Variations
+###### 1. Plain Static Rendering 
    🚀 Use case
 	   - pages that don't require request-based data 
 	   - ![[Plain static rendering.png]]
 
-2. **Static with client-side fetch** 靜態渲染加上客戶端獲取資料: dynamic data gets fetched client-side 
+###### 2. **Static with client-side fetch** 靜態渲染加上客戶端獲取資料: dynamic data gets fetched client-side 
    🚀 Use case: 
 	   1. pages that contain data that should refresh on every page load 
 	   2. pages that contain stable placeholder components 
 	 ![[Static with client-side fetch.png]]
 
-3. Incremental static regeneration 增量靜態生產
+###### 3. Incremental static regeneration 增量靜態生產
 		- generate some pages at build time, others on-demand 
 		- automatically invalidate cache/regenerate pages
 		- reduce build times 
@@ -53,27 +54,27 @@ mindmap-plugin: basic
 		- can be cached globally 
 
 #### SSR
-- The generated HTML content is unique to every request and should not be cached by the CDN.
-👍
+The generated HTML content is unique to every request and should not be cached by the CDN.
+##### 👍
 -  dynamic content, customized data 
 - SEO
-👎
+##### 👎
 - HTML page is generated on every request 
 - Poor user interaction
-🚀 Use case
+##### 🚀 Use case
 	- Pages contain highly personalized content
 	- use request-based data, such as cookies
 	- should be render-blocking
 ####  CSR
-- Rendering pages directly in the browser with JavaScript. All logic, data fetching, templating and routing are handled on the client rather than the server.
-👍
+Rendering pages directly in the browser with JavaScript. All logic, data fetching, templating and routing are handled on the client rather than the server.
+##### 👍
 - Fast Initial Load: the server sends minimal HTML and the client loads most of the content and assets asynchronously.
 - Rich User Interactions
-👎
+##### 👎
 - SEO challenges
 - Initial load time : have to wait for JavaScript to load and execute before they see the content
 - Performance for Low-End Devices 
-🚀 Use case
+##### 🚀 Use case
 	- SPA (single page application)
 
 ### Reference 
