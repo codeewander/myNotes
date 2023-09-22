@@ -4,88 +4,103 @@
     "type": "split",
     "children": [
       {
-        "id": "9818321e183eb79f",
-        "type": "split",
+        "id": "6efae5618f6a190e",
+        "type": "tabs",
         "children": [
           {
-            "id": "6efae5618f6a190e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3dab66ec36996ab5",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "8be9a83e01644dee",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Javascript/🔗 Resource.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "86cc23bc6f91a204",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Design Pattern/Rendering Patterns.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a4149952557a63b6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Cloud/Remote-SSH VM 遠端開發.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9c0c49b5bca7713e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Web Vitals.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 3
+            "id": "3dab66ec36996ab5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           },
           {
-            "id": "58a6ab9f593eaf31",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "95a798a48502db05",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "8be9a83e01644dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/🔗 Resource.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "86cc23bc6f91a204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Rendering Patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4149952557a63b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/Remote-SSH VM 遠端開發.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b08819b140550a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS 選擇器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "899f9830a3c6a5e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/CSS 選擇器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fd90ecf073d53ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Layout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c0c49b5bca7713e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Vitals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -151,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud/Remote-SSH VM 遠端開發.md",
+                "file": "CSS/Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud/Remote-SSH VM 遠端開發.md",
+                "file": "CSS/Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,11 +206,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud/Remote-SSH VM 遠端開發.md"
+                "file": "CSS/Layout.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -211,18 +227,22 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a4149952557a63b6",
+  "active": "5fd90ecf073d53ce",
   "lastOpenFiles": [
-    "Pasted image 20230923022723.png",
-    "Design Pattern/Rendering Patterns.md",
+    "CSS/CSS 選擇器.md",
+    "CSS/Layout.md",
+    "Javascript/🔗 Resource.md",
+    "CSS/Box model.md",
+    "Web",
     "Cloud/Remote-SSH VM 遠端開發.md",
+    "Cloud/VSCode ssh.png",
+    "Design Pattern/Rendering Patterns.md",
     "Cloud",
     "Design Pattern/Rendering performance.png",
     "Design Pattern/Plain static rendering.png",
     "Design Pattern/Static with client-side fetch.png",
     "Design Pattern/Static rendering.png",
     "Web Vitals.md",
-    "Javascript/🔗 Resource.md",
     "Design Pattern",
     "Third-part libraries",
     "Git",
