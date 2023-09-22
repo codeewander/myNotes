@@ -1,7 +1,7 @@
 ---
 date: 2023.09.23
 ---
-### Why - the situation to use remote-SSH 
+### Why  to use remote-SSH ?
 - **Access to Specialized Environment 需要特定環境**
 	When you need to access specific development or testing environments that may differ from your local development setup
 - **Cross-Platform Development 跨平台開發** 
@@ -16,4 +16,26 @@ date: 2023.09.23
 ###  環境說明
 1. Cloud: Azure 
 2. Editor: VSCode 
-3. Git version system
+	需要安裝 [Remote-SSH 套件](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+3. Version control service: Gitlab 
+
+### 步驟及做法
+Step 1 : 在 Azure 創建新的 Resource group，並在下面新增 一台 VM 
+- 點擊新增 Azure virtual machine 
+	- 選擇 Resource group 
+	- 設定  Machine name 和 Region (region 的選擇會影響 size 選項和價格方案)
+	- 選擇驗證方式為SSH public key 
+	- 設定 Username
+	- 選擇 SSH public key source 為 Use existing public key 
+		- 查看本地的 SSH key 
+		 ```
+		// 本地 SSH key 通常在 ~/.ssh 目錄下
+		cd ~/.ssh  
+		// 倘若本地沒有 SSH key 的話則執行下面指令，這會產生一個私鑰和一個公鑰
+		ssh-keygen 
+		// 複製公鑰檔案
+		cat ~/.ssh/id_rsa.pub
+		```
+		- 將公鑰內容貼到 SSH public key 欄位上
+	- 倘若希望省錢的話，可以在 Management 設定Auto-shutdown 
+	- 點擊 Review + create 
