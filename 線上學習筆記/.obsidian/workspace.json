@@ -194,9 +194,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b56afe2240dfc509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - 高效率工作者的36個生活訣竅/核心思維/原則.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61c42beb3a4c098a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - 高效率工作者的36個生活訣竅/核心思維/長線思維.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56d14a307cd597ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - 高效率工作者的36個生活訣竅/核心思維/富人心態.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "244c217136e82b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - 高效率工作者的36個生活訣竅/核心思維/內部歸因.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79195d33759fa115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - 高效率工作者的36個生活訣竅/核心思維/脈絡思考.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbe555a41a7647fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - 高效率工作者的36個生活訣竅/核心思維/正向思維.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -262,7 +334,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - 高效率工作者的36個生活訣竅/心態/風險與機會.md",
+                "file": "1 - 高效率工作者的36個生活訣竅/核心思維/正向思維.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +351,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - 高效率工作者的36個生活訣竅/心態/風險與機會.md",
+                "file": "1 - 高效率工作者的36個生活訣竅/核心思維/正向思維.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +374,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - 高效率工作者的36個生活訣竅/心態/風險與機會.md"
+                "file": "1 - 高效率工作者的36個生活訣竅/核心思維/正向思維.md"
               }
             }
           }
@@ -325,8 +397,14 @@
   },
   "active": "9aa58c9f02e83b30",
   "lastOpenFiles": [
-    "1 - 高效率工作者的36個生活訣竅/心態/善用工具.md",
+    "1 - 高效率工作者的36個生活訣竅/核心思維/脈絡思考.md",
+    "1 - 高效率工作者的36個生活訣竅/核心思維/正向思維.md",
+    "1 - 高效率工作者的36個生活訣竅/核心思維/內部歸因.md",
+    "1 - 高效率工作者的36個生活訣竅/核心思維/富人心態.md",
+    "1 - 高效率工作者的36個生活訣竅/核心思維/長線思維.md",
+    "1 - 高效率工作者的36個生活訣竅/核心思維/原則.md",
     "1 - 高效率工作者的36個生活訣竅/心態/風險與機會.md",
+    "1 - 高效率工作者的36個生活訣竅/心態/善用工具.md",
     "1 - 高效率工作者的36個生活訣竅/心態/休耕期.md",
     "1 - 高效率工作者的36個生活訣竅/心態/無限賽局.md",
     "1 - 高效率工作者的36個生活訣竅/心態/接受不完美.md",
