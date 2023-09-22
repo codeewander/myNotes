@@ -262,7 +262,7 @@
               "type": "markdown",
               "state": {
                 "file": "1 - 高效率工作者的36個生活訣竅/核心思維/正向思維.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -382,7 +382,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -395,7 +396,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "9aa58c9f02e83b30",
+  "active": "bbe555a41a7647fa",
   "lastOpenFiles": [
     "1 - 高效率工作者的36個生活訣竅/核心思維/脈絡思考.md",
     "1 - 高效率工作者的36個生活訣竅/核心思維/正向思維.md",
