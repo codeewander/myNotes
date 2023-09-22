@@ -29,15 +29,37 @@ aliases:
 👎
 - dynamic content, customized data  
 
-倘若需要加載動態內容，有幾種方式：
-1. **Static with client-side fetch** 靜態渲染加上客戶端獲取資料: 在靜態渲染的基礎上，在客戶端使用 JavaScript 來送出 API 請求獲得資料並更新內容
-		Best for pages that: 
-	- contain data that should refresh on every page load 
-	- contain stable placeholder components 
-3. Incremental static regeneration 增量靜態生產: 解決大量頁面導致建構時間長、動態資料無法即時呈現的問題
-		- 只會事先渲染部分重要頁面，剩餘的頁面就等到有用戶請求再渲染
-		- 在指定的時間由伺服器重新渲染該頁面，定期的刷新靜態頁面中的內容
-		
-#### SSR
+1. Plain Static Rendering 
+   🚀 Use case
+	   - pages that don't require request-based data 
+	   - ![[Pasted image 20230923001551.png]]
 
+2. **Static with client-side fetch** 靜態渲染加上客戶端獲取資料: dynamic data gets fetched client-side 
+   🚀 Use case: 
+	   1. pages that contain data that should refresh on every page load 
+	   2. pages that contain stable placeholder components 
+	 ![[Pasted image 20230923001520.png]]
+
+3. Incremental static regeneration 增量靜態生產
+		- generate some pages at build time, others on-demand 
+		- automatically invalidate cache/regenerate pages
+		- reduce build times 
+		- easily cacheable by CDN
+	🚀 Use case: 
+		- Pages that should be generated on a certain interval or on-demand
+		- are not user-specific 
+		- can be cached globally 
+
+#### SSR
+- The generated HTML content is unique to every request and should not be cached by the CDN.
+👍
+-  dynamic content, customized data 
+👎
+- HTML page is generated on every request 
+- Usually slower than CSR rendering website
+🚀 Use case
+	- Pages contain highly personalized content
+	- use request-based data, such as cookies
+	- should be render-blocking
 ### CSR
+
