@@ -102,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "right": {
     "id": "89d48080b61b599f",
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -181,12 +181,12 @@
   },
   "active": "86cc23bc6f91a204",
   "lastOpenFiles": [
-    "Pasted image 20230923001551.png",
-    "Pasted image 20230923001520.png",
-    "Pasted image 20230923001128.png",
-    "Web Vitals.md",
+    "Design Pattern/Rendering performance.png",
     "Design Pattern/Rendering Patterns.md",
-    "Pasted image 20230922230713.png",
+    "Design Pattern/Plain static rendering.png",
+    "Design Pattern/Static with client-side fetch.png",
+    "Design Pattern/Static rendering.png",
+    "Web Vitals.md",
     "Javascript/🔗 Resource.md",
     "Design Pattern",
     "Third-part libraries",
