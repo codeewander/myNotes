@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-emoji-toolbar",
+  "editing-toolbar"
 ]
