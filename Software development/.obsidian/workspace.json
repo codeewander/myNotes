@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/🔗 Resource.md",
+                "file": "01. 知識點/Javascript/🔗 Resource.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Pattern/Rendering Patterns.md",
+                "file": "01. 知識點/Design Pattern/Rendering Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Remote-SSH VM 遠端開發.md",
+                "file": "01. 知識點/Cloud/Remote-SSH VM 遠端開發.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS 選擇器.md",
+                "file": "01. 知識點/CSS/CSS 選擇器.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/CSS 選擇器.md",
+                "file": "01. 知識點/CSS/CSS 選擇器.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Web Vitals.md",
+                "file": "01. 知識點/Web/Web Vitals.md",
                 "mode": "source",
                 "source": false
               }
@@ -227,30 +227,31 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "5fd90ecf073d53ce",
+  "active": "264f79909e05726b",
   "lastOpenFiles": [
-    "Web/Web Vitals.md",
+    "01. 知識點",
+    "01. 知識點/Web/Web Vitals.md",
     "2023-09-26.md",
-    "CSS/Layout.md",
-    "開發日記",
-    "CSS/CSS 選擇器.md",
-    "Javascript/🔗 Resource.md",
-    "CSS/Box model.md",
-    "Web",
-    "Cloud/Remote-SSH VM 遠端開發.md",
-    "Cloud/VSCode ssh.png",
-    "Design Pattern/Rendering Patterns.md",
-    "Cloud",
-    "Design Pattern/Rendering performance.png",
-    "Design Pattern/Plain static rendering.png",
-    "Design Pattern/Static with client-side fetch.png",
-    "Design Pattern/Static rendering.png",
-    "Design Pattern",
-    "Third-part libraries",
-    "Git",
-    "React",
-    "Algorithm",
-    "Javascript",
-    "CSS"
+    "01. 知識點/CSS/Layout.md",
+    "02.開發日記",
+    "01. 知識點/CSS/CSS 選擇器.md",
+    "01. 知識點/Javascript/🔗 Resource.md",
+    "01. 知識點/CSS/Box model.md",
+    "01. 知識點/Web",
+    "01. 知識點/Cloud/Remote-SSH VM 遠端開發.md",
+    "01. 知識點/Cloud/VSCode ssh.png",
+    "01. 知識點/Design Pattern/Rendering Patterns.md",
+    "01. 知識點/Cloud",
+    "01. 知識點/Design Pattern/Rendering performance.png",
+    "01. 知識點/Design Pattern/Plain static rendering.png",
+    "01. 知識點/Design Pattern/Static with client-side fetch.png",
+    "01. 知識點/Design Pattern/Static rendering.png",
+    "01. 知識點/Design Pattern",
+    "01. 知識點/Third-part libraries",
+    "01. 知識點/Git",
+    "01. 知識點/React",
+    "01. 知識點/Algorithm",
+    "01. 知識點/Javascript",
+    "01. 知識點/CSS"
   ]
 }
