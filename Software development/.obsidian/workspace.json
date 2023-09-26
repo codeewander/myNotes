@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS/Layout.md",
+                "file": "2023-09-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Vitals.md",
+                "file": "Web/Web Vitals.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/Layout.md",
+                "file": "2023-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/Layout.md",
+                "file": "2023-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/Layout.md"
+                "file": "2023-09-26.md"
               }
             }
           }
@@ -229,8 +229,11 @@
   },
   "active": "5fd90ecf073d53ce",
   "lastOpenFiles": [
-    "CSS/CSS 選擇器.md",
+    "Web/Web Vitals.md",
+    "2023-09-26.md",
     "CSS/Layout.md",
+    "開發日記",
+    "CSS/CSS 選擇器.md",
     "Javascript/🔗 Resource.md",
     "CSS/Box model.md",
     "Web",
@@ -242,14 +245,12 @@
     "Design Pattern/Plain static rendering.png",
     "Design Pattern/Static with client-side fetch.png",
     "Design Pattern/Static rendering.png",
-    "Web Vitals.md",
     "Design Pattern",
     "Third-part libraries",
     "Git",
     "React",
     "Algorithm",
     "Javascript",
-    "CSS",
-    "HTML"
+    "CSS"
   ]
 }
