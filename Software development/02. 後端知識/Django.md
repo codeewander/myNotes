@@ -1,0 +1,4 @@
+- MTV 架構
+	- Models - 資料庫結構
+	- Templates - 最後呈現
+	- Views - 邏輯運算
