@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 前端知識/Javascript/🔗 Resource.md",
+                "file": "01. 前端筆記/Javascript/🔗 Resource.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 前端知識/Design Pattern/Rendering Patterns.md",
+                "file": "01. 前端筆記/Design Pattern/Rendering Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 前端知識/Cloud/Remote-SSH VM 遠端開發.md",
+                "file": "01. 前端筆記/Cloud/Remote-SSH VM 遠端開發.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 前端知識/CSS/CSS 選擇器.md",
+                "file": "01. 前端筆記/CSS/CSS 選擇器.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 前端知識/CSS/CSS 選擇器.md",
+                "file": "01. 前端筆記/CSS/CSS 選擇器.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 前端知識/Web/Web Vitals.md",
+                "file": "01. 前端筆記/Web/Web Vitals.md",
                 "mode": "source",
                 "source": false
               }
@@ -241,29 +241,29 @@
   },
   "active": "b71ab774cfedaad9",
   "lastOpenFiles": [
-    "02. 後端知識/Django.md",
     "2023-09-26.md",
-    "02. 後端知識",
-    "01. 前端知識",
-    "01. 前端知識/Web/Web Vitals.md",
-    "01. 前端知識/CSS/Layout.md",
+    "02. 後端筆記/Django.md",
+    "02. 後端筆記",
+    "01. 前端筆記",
+    "01. 前端筆記/Web/Web Vitals.md",
+    "01. 前端筆記/CSS/Layout.md",
     "03.開發日記",
-    "01. 前端知識/CSS/CSS 選擇器.md",
-    "01. 前端知識/Javascript/🔗 Resource.md",
-    "01. 前端知識/CSS/Box model.md",
-    "01. 前端知識/Web",
-    "01. 前端知識/Cloud/Remote-SSH VM 遠端開發.md",
-    "01. 前端知識/Cloud/VSCode ssh.png",
-    "01. 前端知識/Design Pattern/Rendering Patterns.md",
-    "01. 前端知識/Cloud",
-    "01. 前端知識/Design Pattern/Rendering performance.png",
-    "01. 前端知識/Design Pattern/Plain static rendering.png",
-    "01. 前端知識/Design Pattern/Static with client-side fetch.png",
-    "01. 前端知識/Design Pattern/Static rendering.png",
-    "01. 前端知識/Design Pattern",
-    "01. 前端知識/Third-part libraries",
-    "01. 前端知識/Git",
-    "01. 前端知識/React",
-    "01. 前端知識/Algorithm"
+    "01. 前端筆記/CSS/CSS 選擇器.md",
+    "01. 前端筆記/Javascript/🔗 Resource.md",
+    "01. 前端筆記/CSS/Box model.md",
+    "01. 前端筆記/Web",
+    "01. 前端筆記/Cloud/Remote-SSH VM 遠端開發.md",
+    "01. 前端筆記/Cloud/VSCode ssh.png",
+    "01. 前端筆記/Design Pattern/Rendering Patterns.md",
+    "01. 前端筆記/Cloud",
+    "01. 前端筆記/Design Pattern/Rendering performance.png",
+    "01. 前端筆記/Design Pattern/Plain static rendering.png",
+    "01. 前端筆記/Design Pattern/Static with client-side fetch.png",
+    "01. 前端筆記/Design Pattern/Static rendering.png",
+    "01. 前端筆記/Design Pattern",
+    "01. 前端筆記/Third-part libraries",
+    "01. 前端筆記/Git",
+    "01. 前端筆記/React",
+    "01. 前端筆記/Algorithm"
   ]
 }
