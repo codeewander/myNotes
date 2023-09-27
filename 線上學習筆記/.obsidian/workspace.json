@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc75913dde117b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. 哲學筆記/叔本華.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 哲學筆記/做為意志與表象的世界.md",
+                "file": "01. 哲學筆記/叔本華.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 哲學筆記/做為意志與表象的世界.md",
+                "file": "01. 哲學筆記/叔本華.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 哲學筆記/做為意志與表象的世界.md"
+                "file": "01. 哲學筆記/叔本華.md"
               }
             }
           }
@@ -256,10 +268,11 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "70d2e4e7b5ee469c",
+  "active": "cc75913dde117b1c",
   "lastOpenFiles": [
-    "高效率工作者的36個生活訣竅/核心思維/長線思維.md",
     "01. 哲學筆記/做為意志與表象的世界.md",
+    "01. 哲學筆記/叔本華.md",
+    "高效率工作者的36個生活訣竅/核心思維/長線思維.md",
     "01. 哲學筆記",
     "高效率工作者的36個生活訣竅/核心思維/追求財務自由的行為脈絡.png",
     "高效率工作者的36個生活訣竅/核心思維/脈絡思考.md",
@@ -286,7 +299,6 @@
     "高效率工作者的36個生活訣竅/工作方法/溫水煮青蛙.md",
     "高效率工作者的36個生活訣竅/工作方法/聰明邀功.md",
     "高效率工作者的36個生活訣竅/工作方法/必要項和加分項.md",
-    "高效率工作者的36個生活訣竅/工作方法/30%的不確定性原則.md",
     "高效率工作者的36個生活訣竅/心態",
     "高效率工作者的36個生活訣竅/工作方法",
     "高效率工作者的36個生活訣竅/核心思維",
