@@ -148,6 +148,18 @@
             }
           },
           {
+            "id": "a0a56409c79f58a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. 前端筆記/Javascript/Throttle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9c0c49b5bca7713e",
             "type": "leaf",
             "state": {
@@ -160,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 前端筆記/Javascript/Debounce.md",
+                "file": "01. 前端筆記/Javascript/Throttle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 前端筆記/Javascript/Debounce.md",
+                "file": "01. 前端筆記/Javascript/Throttle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 前端筆記/Javascript/Debounce.md"
+                "file": "01. 前端筆記/Javascript/Throttle.md"
               }
             }
           }
@@ -287,11 +299,14 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "51c3470639ebe46e",
+  "active": "264f79909e05726b",
   "lastOpenFiles": [
+    "01. 前端筆記/Javascript/throttle.png",
+    "01. 前端筆記/Javascript/Debounce.md",
+    "01. 前端筆記/Javascript/debounce.png",
+    "01. 前端筆記/Javascript/Throttle.md",
     "2023-09-26.md",
     "01. 前端筆記/Javascript/🔗 Resource.md",
-    "01. 前端筆記/Javascript/Debounce.md",
     "01. 前端筆記/Third-part libraries/Webpack.md",
     "01. 前端筆記/Third-part libraries/常見 Webpack Plugins.md",
     "02. 後端筆記/Django.md",
