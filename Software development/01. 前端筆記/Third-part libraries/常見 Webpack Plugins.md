@@ -8,7 +8,7 @@ tags:
 
 ##### 安裝
 
-```
+```bash
 npm install html-webpack-plugin --save-dev
 ```
 
@@ -16,8 +16,12 @@ npm install html-webpack-plugin --save-dev
 
 HtmlWebpackPlugin 會自動拿 `output.publicPath` 的路徑，灌到 template 的 `<script>` 中，如果在 `webpack.config.js` 中沒有設定 `output.publicPath` 的話，當網址切換時可能會無法順利載到 bundle 過的檔案：
 
-```
-// webpack.config.jsconst HtmlWebpackPlugin = require('html-webpack-plugin');module.exports = {  // ...  plugins: [    /* 只是要在 HTML 添加打包好的 webpack 檔案 */    // new HtmlWebpackPlugin(),    /* 或者也可以定義要使用的樣版，或其他更多參數 */    new HtmlWebpackPlugin({      title: 'Webpack 6 - Output Management with HtmlWebpackPlugin',      template: './index.html', // 以 index.html 這支檔案當作模版注入 html    }),  ],};
+```js
+// webpack.config.js
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+module.exports = {  
+// ...  plugins: [    /* 只是要在 HTML 添加打包好的 webpack 檔案 */    // new HtmlWebpackPlugin(),    /* 或者也可以定義要使用的樣版，或其他更多參數 */    new HtmlWebpackPlugin({      title: 'Webpack 6 - Output Management with HtmlWebpackPlugin',      template: './index.html', // 以 index.html 這支檔案當作模版注入 html    }),  ],};
+
 ```
 
 提示
