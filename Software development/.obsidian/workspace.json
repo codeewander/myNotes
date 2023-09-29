@@ -129,7 +129,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 前端筆記/Third-part libraries/常見 Webpack Plugins.md",
+                "file": "01. 前端筆記/Javascript/🔗 Resource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51c3470639ebe46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. 前端筆記/Javascript/Debounce.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 前端筆記/Third-part libraries/常見 Webpack Plugins.md",
+                "file": "01. 前端筆記/Javascript/Debounce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 前端筆記/Third-part libraries/常見 Webpack Plugins.md",
+                "file": "01. 前端筆記/Javascript/Debounce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 前端筆記/Third-part libraries/常見 Webpack Plugins.md"
+                "file": "01. 前端筆記/Javascript/Debounce.md"
               }
             }
           }
@@ -263,7 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,11 +287,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f0eda5f0981a23c4",
+  "active": "51c3470639ebe46e",
   "lastOpenFiles": [
+    "2023-09-26.md",
+    "01. 前端筆記/Javascript/🔗 Resource.md",
+    "01. 前端筆記/Javascript/Debounce.md",
     "01. 前端筆記/Third-part libraries/Webpack.md",
     "01. 前端筆記/Third-part libraries/常見 Webpack Plugins.md",
-    "2023-09-26.md",
     "02. 後端筆記/Django.md",
     "02. 後端筆記",
     "01. 前端筆記",
@@ -287,7 +301,6 @@
     "01. 前端筆記/CSS/Layout.md",
     "03.開發日記",
     "01. 前端筆記/CSS/CSS 選擇器.md",
-    "01. 前端筆記/Javascript/🔗 Resource.md",
     "01. 前端筆記/CSS/Box model.md",
     "01. 前端筆記/Web",
     "01. 前端筆記/Cloud/Remote-SSH VM 遠端開發.md",

@@ -20,12 +20,20 @@ HtmlWebpackPlugin 會自動拿 `output.publicPath` 的路徑，灌到 template
 // webpack.config.js
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 module.exports = {  
-// ...  plugins: [    /* 只是要在 HTML 添加打包好的 webpack 檔案 */    // new HtmlWebpackPlugin(),    /* 或者也可以定義要使用的樣版，或其他更多參數 */    new HtmlWebpackPlugin({      title: 'Webpack 6 - Output Management with HtmlWebpackPlugin',      template: './index.html', // 以 index.html 這支檔案當作模版注入 html    }),  ],};
+// ...  
+plugins: [    
+	new HtmlWebpackPlugin({      
+		title: 'Webpack 6 - Output Management with HtmlWebpackPlugin',  
+		template: './index.html', // 以 index.html 這支檔案當作模版注入 html    
+		}),  
+	],
+};
 
 ```
 
-提示
+> [!info]
+> HtmlWebpackPlugin 還有其他可用的參數，參考 [html-webpack-plugin > options](https://github.com/jantimon/html-webpack-plugin#options) 。
 
-HtmlWebpackPlugin 還有其他可用的參數可以參考 [html-webpack-plugin > options](https://github.com/jantimon/html-webpack-plugin#options) 的說明。
 
-> - [Setting up HtmlWebpackPlugin](https://webpack.js.org/guides/output-management/#setting-up-htmlwebpackplugin) @ Webpack Guides > Output Management
+##### Reference
+[Setting up HtmlWebpackPlugin](https://webpack.js.org/guides/output-management/#setting-up-htmlwebpackplugin) @ Webpack Guides > Output Management
