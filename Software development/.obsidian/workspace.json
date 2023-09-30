@@ -153,7 +153,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. 前端筆記/Javascript/Throttle.md",
+                "file": "01. 前端筆記/Javascript/Debounce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05196b37a155b1a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. 前端筆記/Javascript/Debounce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "945326858cde1ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. 前端筆記/Javascript/Promise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f9ba5efa676a89d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "async await.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -222,7 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 277.5
   },
   "right": {
     "id": "89d48080b61b599f",
@@ -238,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 前端筆記/Javascript/Throttle.md",
+                "file": "async await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 前端筆記/Javascript/Throttle.md",
+                "file": "async await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 前端筆記/Javascript/Throttle.md"
+                "file": "async await.md"
               }
             }
           }
@@ -299,12 +335,17 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "264f79909e05726b",
+  "active": "9f9ba5efa676a89d",
   "lastOpenFiles": [
-    "01. 前端筆記/Javascript/throttle.png",
-    "01. 前端筆記/Javascript/Debounce.md",
-    "01. 前端筆記/Javascript/debounce.png",
+    "01. 前端筆記/Javascript/Promise.md",
+    "async await.md",
     "01. 前端筆記/Javascript/Throttle.md",
+    "01. 前端筆記/Javascript/Debounce.md",
+    "01. 前端筆記/Javascript/Event capturing and bubbling.md",
+    "01. 前端筆記/Javascript/Event.md",
+    "01. 前端筆記/Javascript/DOM Event Flow.png",
+    "01. 前端筆記/Javascript/debounce.png",
+    "01. 前端筆記/Javascript/throttle.png",
     "2023-09-26.md",
     "01. 前端筆記/Javascript/🔗 Resource.md",
     "01. 前端筆記/Third-part libraries/Webpack.md",

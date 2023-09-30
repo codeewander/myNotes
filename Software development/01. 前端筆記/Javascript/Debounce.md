@@ -39,11 +39,25 @@ function debounce (fn, delay = 500){
 
 	}
 }
+
+// updateDebounceText 函式會在延遲 500 ms後印出 debounce 文字
+const updateDebounceText = debounce (text=> {
+	console.log('debounce')
+},500)
+
+// 監聽 input 事件，當input改變時觸發 updateDebounceText 函式
+searchInput.addEventListener('input',(e)=>{
+	updateDebounceText(e.target.value)
+})
 ```
 
 
 >[!info]
-> debounce 和 throttle 都是用於優化效能，但概念和使用場境不同
+> debounce 和 [[Throttle]] 都是用於優化效能，但概念和使用場境不同
+
+>[!info] 
+> 控制輸入框查詢不適合用 throttle 處理，假設使用者一開始輸入apple，馬上改成 book，用 throttle 會讓使用者輸入apple後，有t秒時間都不會執行查詢動作。
 
 
-[[Throttle]]
+[# JavaScript Debounce, Easiest explanation !(with Code)](https://dev.to/jeetvora331/javascript-debounce-easiest-explanation--29hc)
+[## 網頁 DOM 事件的效能優化：Debounce 和 Throttle](https://www.mropengate.com/2017/12/dom-debounce-throttle.html?fbclid=IwAR1ncL2Wn9giRB8tTurV_ipXpRppvP1bCv1kX5ibrZgrzw3_5s_DZ2G3St8)
