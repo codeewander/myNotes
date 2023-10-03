@@ -23,8 +23,14 @@
 對於開發者來說，透過 Docker 可以確保每一個開發者和每一個伺服器（包含上線、開發和測試）時的開發環境相同。任何人都可以在短時間內設置好專案，不需要再去花許多時間搞設定，安裝套件等等。
 
 #### Image v.s container 
+
+- **Docker Image（Docker 映像檔）**：一個打包好的應用程式，包含了應用程式程式碼，以及運行該應用程式所需的所有東西，如程式庫、工具和設定。Docker 映像檔是靜態的，不會變化。
+- **Docker Container（Docker 容器）**：Docker Image 的運行實例。當你啟動一個容器時，它會根據 Docker Image創建一個可運行的環境。容器包含了一個正在運行的應用程式和它的環境。容器是動態的，可以啟動、停止和刪除。
+
+[[Docker指令]]
 ### Reference: 
 [圖解Docker教學＠youtube](https://www.youtube.com/watch?v=0fFO2ez1dWA&list=PLVVMQF8vWNCJnlO0Y34AE_1AgCapldp38&index=15)
+
 
 
 
