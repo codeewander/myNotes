@@ -31,6 +31,9 @@
 [[Docker常用指令]]
 ### Reference: 
 [圖解Docker教學＠youtube](https://www.youtube.com/watch?v=0fFO2ez1dWA&list=PLVVMQF8vWNCJnlO0Y34AE_1AgCapldp38&index=15)
+[Docker-從入門到實踐](https://philipzheng.gitbook.io/docker_practice/)
+[Docker Official Doc](https://docs.docker.com/get-started/overview/)
+
 
 
 
