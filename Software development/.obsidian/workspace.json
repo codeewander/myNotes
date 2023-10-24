@@ -40,18 +40,6 @@
             }
           },
           {
-            "id": "a4149952557a63b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. 前端筆記/Cloud/Remote-SSH VM 遠端開發.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b08819b140550a5a",
             "type": "leaf",
             "state": {
@@ -244,6 +232,18 @@
             }
           },
           {
+            "id": "68b64366889ed590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. 前端筆記/TypeScript/TypeScript 核心觀念.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9c0c49b5bca7713e",
             "type": "leaf",
             "state": {
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. 前端筆記/TypeScript/Utility Types.md",
+                "file": "01. 前端筆記/TypeScript/TypeScript 核心觀念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -339,7 +339,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. 前端筆記/TypeScript/Utility Types.md",
+                "file": "01. 前端筆記/TypeScript/TypeScript 核心觀念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -362,7 +362,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. 前端筆記/TypeScript/Utility Types.md"
+                "file": "01. 前端筆記/TypeScript/TypeScript 核心觀念.md"
               }
             }
           }
@@ -383,11 +383,17 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e71d6b11de01379a",
+  "active": "68b64366889ed590",
   "lastOpenFiles": [
-    "01. 前端筆記/TypeScript/TypeScript 核心觀念.md",
     "01. 前端筆記/TypeScript/Utility Types.md",
     "02. 後端筆記/Docker/Docker 起手式.md",
+    "01. 前端筆記/Javascript/Throttle.md",
+    "01. 前端筆記/Design Pattern/Rendering Patterns.md",
+    "01. 前端筆記/Design Pattern/Plain static rendering.png",
+    "01. 前端筆記/Cloud/VSCode ssh.png",
+    "01. 前端筆記/Web/Web Vitals.md",
+    "01. 前端筆記/TypeScript/TypeScript 核心觀念.md",
+    "01. 前端筆記/Cloud/Remote-SSH VM 遠端開發.md",
     "02. 後端筆記/Docker/Docker常用指令.md",
     "01. 前端筆記/TypeScript",
     "02. 後端筆記/Docker/Docker功能.png",
@@ -396,7 +402,6 @@
     "02. 後端筆記/Docker",
     "async await.md",
     "01. 前端筆記/Javascript/Promise.md",
-    "01. 前端筆記/Javascript/Throttle.md",
     "01. 前端筆記/Javascript/Debounce.md",
     "01. 前端筆記/Javascript/Event capturing and bubbling.md",
     "01. 前端筆記/Javascript/Event.md",
@@ -409,18 +414,13 @@
     "01. 前端筆記/Third-part libraries/常見 Webpack Plugins.md",
     "02. 後端筆記",
     "01. 前端筆記",
-    "01. 前端筆記/Web/Web Vitals.md",
     "01. 前端筆記/CSS/Layout.md",
     "03.開發日記",
     "01. 前端筆記/CSS/CSS 選擇器.md",
     "01. 前端筆記/CSS/Box model.md",
     "01. 前端筆記/Web",
-    "01. 前端筆記/Cloud/Remote-SSH VM 遠端開發.md",
-    "01. 前端筆記/Cloud/VSCode ssh.png",
-    "01. 前端筆記/Design Pattern/Rendering Patterns.md",
     "01. 前端筆記/Cloud",
     "01. 前端筆記/Design Pattern/Rendering performance.png",
-    "01. 前端筆記/Design Pattern/Plain static rendering.png",
     "01. 前端筆記/Design Pattern/Static with client-side fetch.png",
     "01. 前端筆記/Design Pattern/Static rendering.png",
     "01. 前端筆記/Design Pattern",

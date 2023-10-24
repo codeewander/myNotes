@@ -150,9 +150,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84d0d47342a70753",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -280,7 +290,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "09b4cc6b23f9092b",
+  "active": "84d0d47342a70753",
   "lastOpenFiles": [
     "03. 高效率工作者的36個生活訣竅/心態/接受不完美.md",
     "03. 高效率工作者的36個生活訣竅/心態/善用工具.md",
